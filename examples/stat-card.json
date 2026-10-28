@@ -1,0 +1,16 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.stat-card.mp4",
+  "effects": [
+    {
+      "fx": "stat-card",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "title": "you/your-project",
+        "value": 62300,
+        "unit": "stars"
+      }
+    }
+  ]
+}

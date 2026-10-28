@@ -1,0 +1,16 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.name-tag.mp4",
+  "effects": [
+    {
+      "fx": "name-tag",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "name": "Your Name",
+        "role": "What you do",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}

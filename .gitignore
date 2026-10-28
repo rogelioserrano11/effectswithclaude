@@ -1,0 +1,10 @@
+# downloaded by `efx setup`
+models/*.onnx
+vendor/
+# work folders and renders
+.efx/
+*.part
+__pycache__/
+.venv/
+*.mp4
+!demo/*.mp4

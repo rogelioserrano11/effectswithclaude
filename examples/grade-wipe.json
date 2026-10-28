@@ -1,0 +1,14 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.grade-wipe.mp4",
+  "effects": [
+    {
+      "fx": "grade-wipe",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "look": "cinematic"
+      }
+    }
+  ]
+}

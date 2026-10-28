@@ -1,0 +1,16 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.freeze-sticker.mp4",
+  "effects": [
+    {
+      "fx": "freeze-sticker",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "at": 0.4,
+        "hold": 1.8,
+        "tag": "this is me 👋"
+      }
+    }
+  ]
+}

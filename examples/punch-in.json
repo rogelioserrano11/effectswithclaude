@@ -1,0 +1,15 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.punch-in.mp4",
+  "effects": [
+    {
+      "fx": "punch-in",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "at": 0.5,
+        "word": "STOP"
+      }
+    }
+  ]
+}

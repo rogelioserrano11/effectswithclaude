@@ -1,0 +1,77 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.reel.mp4",
+  "brand": {
+    "accent": "#ff6b1a",
+    "handle": "@yourhandle"
+  },
+  "effects": [
+    {
+      "fx": "name-tag",
+      "at": 0.3,
+      "dur": 3.0,
+      "params": {
+        "name": "Your Name",
+        "role": "What you do",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "fx": "giant-word-behind",
+      "at": 4.5,
+      "dur": 3.0,
+      "params": {
+        "word": "FOCUS"
+      }
+    },
+    {
+      "fx": "chart-behind",
+      "at": 9.0,
+      "dur": 3.5,
+      "params": {
+        "title": "My top reels",
+        "sub": "by views",
+        "items": [
+          {
+            "label": "Hook",
+            "value": 33000
+          },
+          {
+            "label": "Story",
+            "value": 82000
+          },
+          {
+            "label": "Data",
+            "value": 140000
+          },
+          {
+            "label": "Demo",
+            "value": 197000
+          },
+          {
+            "label": "Tips",
+            "value": 124000
+          }
+        ]
+      }
+    },
+    {
+      "fx": "spotlight",
+      "at": 14.0,
+      "dur": 3.0,
+      "params": {
+        "word": "FOCUS MODE"
+      }
+    },
+    {
+      "fx": "comment-cta",
+      "at": 18.5,
+      "dur": 4.0,
+      "params": {
+        "word": "GUIDE",
+        "post": "and I'll DM you the link",
+        "dm": "Here's your guide 👉"
+      }
+    }
+  ]
+}

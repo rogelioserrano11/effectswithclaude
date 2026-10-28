@@ -1,0 +1,21 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.photo-burst.mp4",
+  "effects": [
+    {
+      "fx": "photo-burst",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "tiles": [
+          "🎬",
+          "📈",
+          "🤖",
+          "⚡",
+          "🎧",
+          "🧠"
+        ]
+      }
+    }
+  ]
+}

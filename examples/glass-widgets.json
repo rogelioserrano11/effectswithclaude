@@ -1,0 +1,19 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.glass-widgets.mp4",
+  "effects": [
+    {
+      "fx": "glass-widgets",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "views": 189000,
+        "delta": "+38%",
+        "watch": 4812,
+        "followers": 2140,
+        "handle": "@yourhandle",
+        "name": "Your Name"
+      }
+    }
+  ]
+}

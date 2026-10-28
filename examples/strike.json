@@ -1,0 +1,21 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.strike.mp4",
+  "effects": [
+    {
+      "fx": "strike",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "before": {
+          "label": "Editing a reel",
+          "value": "4 hours"
+        },
+        "after": {
+          "label": "With this pack",
+          "value": "10 min"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.hand-draw.mp4",
+  "effects": [
+    {
+      "fx": "hand-draw",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "note": "that's me",
+        "side": "left"
+      }
+    }
+  ]
+}

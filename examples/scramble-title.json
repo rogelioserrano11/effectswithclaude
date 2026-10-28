@@ -1,0 +1,15 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.scramble-title.mp4",
+  "effects": [
+    {
+      "fx": "scramble-title",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "text": "NEW DROP",
+        "sub": "// loading"
+      }
+    }
+  ]
+}

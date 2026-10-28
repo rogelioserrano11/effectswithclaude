@@ -1,0 +1,23 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.shoulder-compare.mp4",
+  "effects": [
+    {
+      "fx": "shoulder-compare",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "before": {
+          "label": "Before",
+          "value": 1204,
+          "unit": "views"
+        },
+        "after": {
+          "label": "After",
+          "value": 412000,
+          "unit": "views"
+        }
+      }
+    }
+  ]
+}

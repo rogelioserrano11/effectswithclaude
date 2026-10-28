@@ -1,0 +1,16 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.comment-cta.mp4",
+  "effects": [
+    {
+      "fx": "comment-cta",
+      "at": 1.0,
+      "dur": 4.0,
+      "params": {
+        "word": "GUIDE",
+        "post": "and I'll DM you the link",
+        "dm": "Here's your guide 👉"
+      }
+    }
+  ]
+}

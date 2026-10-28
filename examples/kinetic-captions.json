@@ -1,0 +1,15 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.kinetic-captions.mp4",
+  "effects": [
+    {
+      "fx": "kinetic-captions",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "text": "Edit your reels like a *pro*",
+        "behind": "PRO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.chart-behind.mp4",
+  "effects": [
+    {
+      "fx": "chart-behind",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "title": "My top reels",
+        "sub": "by views",
+        "items": [
+          {
+            "label": "Hook",
+            "value": 33000
+          },
+          {
+            "label": "Story",
+            "value": 82000
+          },
+          {
+            "label": "Data",
+            "value": 140000
+          },
+          {
+            "label": "Demo",
+            "value": 197000
+          },
+          {
+            "label": "Tips",
+            "value": 124000
+          }
+        ]
+      }
+    }
+  ]
+}

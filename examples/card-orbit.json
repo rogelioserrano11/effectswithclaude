@@ -1,0 +1,29 @@
+{
+  "clip": "../me.mp4",
+  "out": "../me.card-orbit.mp4",
+  "effects": [
+    {
+      "fx": "card-orbit",
+      "at": 1.0,
+      "dur": 3.5,
+      "params": {
+        "images": [
+          "thumbs/reel1.jpg",
+          "thumbs/reel2.jpg",
+          "thumbs/reel3.jpg",
+          "thumbs/reel4.jpg",
+          "thumbs/reel5.jpg",
+          "thumbs/reel6.jpg"
+        ],
+        "labels": [
+          "1.2M",
+          "804K",
+          "640K",
+          "512K",
+          "390K",
+          "301K"
+        ]
+      }
+    }
+  ]
+}
